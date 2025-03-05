@@ -1,0 +1,10 @@
+.container{
+    border: solid 2px greenyellow;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 40%;
+}
+.inner-container{
+    border: 2px dotted rgb(240, 240, 7);
+}
